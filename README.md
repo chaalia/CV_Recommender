@@ -3,7 +3,7 @@
 
 khaledhadjali1@gmail.com
 
-rjabchaalia@isimg.tn
+rjab.chaalia@isimg.tn
 
 # cv_uploader
 
@@ -26,7 +26,7 @@ docker-compose build --no-cache .
 docker-compose up -d
 
 ### enter container
-docker-compose exec my_parser sh
+docker-compose exec my_parser bash
 after entering the container u have to run migration
 Run migrations:
 
