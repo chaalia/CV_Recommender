@@ -5,6 +5,8 @@ khaledhadjali1@gmail.com
 
 rjab.chaalia@isimg.tn
 
+yacincheffai@gmail.com
+
 # cv_uploader
 
 cv_uploader is a _short description_. It is built with [Python3 using the [Django Web Framework][1].
