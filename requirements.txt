@@ -1,7 +1,7 @@
 -i https://pypi.python.org/simple
 django-debug-toolbar==1.11.1
 sqlparse==0.2.4
-werkzeug==0.14.1
+werkzeug==0.15.3
 django-authtools==1.6.0
 django-braces==1.13.0
 django-crispy-forms==1.7.2
