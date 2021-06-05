@@ -7,7 +7,7 @@ django-braces==1.13.0
 django-crispy-forms==1.7.2
 django-extensions
 django-environ==0.4.5
-django==2.2.20
+django==2.2.21
 easy-thumbnails==2.5
 pillow==8.1.2
 psycopg2-binary
